@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494295151 source:c:\users\simon\desktop\programming\c++\lab10\date.cpp
+	"date.hpp"
+
+1493857661 c:\users\simon\desktop\programming\c++\lab10\date.hpp
+	<string>
+	<ctime>
+
+1494287820 source:c:\users\simon\desktop\programming\c++\lab10\main.cpp
+	<iostream>
+	"date.hpp"
+
+1493854502 c:\users\simon\desktop\programming\c++\lab10\date.cpp
+	"date.hpp"
+
